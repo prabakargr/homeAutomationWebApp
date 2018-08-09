@@ -1,0 +1,44 @@
+.box
+{
+    width:300px;
+    height:100px;
+    background-color:#f2f4f5;
+
+}
+.box h3,p
+{
+padding:30px;
+font-weight:bold;
+}
+.box1
+{
+   width:300px;
+   height:0 auto;
+   background-color:#f2f4f5;
+}
+.box2
+{
+    width:300px;
+    height:200px;
+    background-color:#f2f4f5;
+    font-size:15px;
+    padding:10px;
+    font-weight:bold;
+}
+.box1 p{
+    float: left;
+}
+.box4
+{
+    background-color:#f2f4f5;
+    width:300px;
+}
+.pic  #img{
+    border:2px solid lightgray;
+}
+.pic i{
+    font-size:30px;
+}
+.ProductContain{
+    margin-top: 4rem;
+}
