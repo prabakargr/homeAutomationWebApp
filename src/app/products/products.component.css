@@ -1,7 +1,5 @@
 .box
 {
-    width:300px;
-    height:100px;
     background-color:#f2f4f5;
 
 }
@@ -12,14 +10,11 @@ font-weight:bold;
 }
 .box1
 {
-   width:300px;
-   height:0 auto;
+  
    background-color:#f2f4f5;
 }
 .box2
 {
-    width:300px;
-    height:200px;
     background-color:#f2f4f5;
     font-size:15px;
     padding:10px;
@@ -31,14 +26,46 @@ font-weight:bold;
 .box4
 {
     background-color:#f2f4f5;
-    width:300px;
+   
 }
-.pic  #img{
-    border:2px solid lightgray;
+.img1
+{
+    border: 1px solid lightgray;
+    padding:20px;
+    
 }
-.pic i{
-    font-size:30px;
+.box4 button
+{
+    margin:20px;
+   
 }
-.ProductContain{
-    margin-top: 4rem;
+img,h3,a
+{
+    
+}
+.center
+{
+    padding:50px;
+}
+.pic button{
+  
+
+}
+ button{
+   
+        float:none !important;
+        margin: 0 auto
+    
+}
+.box2 a{
+    color:gray;
+}
+.ShowIcon{
+    padding-left: 1.5rem;
+}
+h2{
+    font-weight:400;
+}
+.productContainer{
+    margin-bottom: 2rem;
 }
