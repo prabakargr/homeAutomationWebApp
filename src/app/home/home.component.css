@@ -9,8 +9,12 @@
     background-color: #9c27b0 !important;
     color: white;
 }
+.iconCall a{
+        color: white;
+        font-size: 2rem;
+}
 .iconCall{
-    padding-top: 1.75rem;
+    padding-top: 2.5rem;
 }
 .FeaturesCards{
     padding-top: 3rem;
@@ -21,4 +25,9 @@ h2{
 }
 h4{
     font-weight: 500;
+}
+@media (max-width:567px){
+    .iconCall{
+        padding-top: 0;
+    }
 }
