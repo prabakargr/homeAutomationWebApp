@@ -8,7 +8,7 @@
         ],
         "rewrites": [{
             "source": "**",
-            "destination": "/homeAutomation/index.html"
+            "destination": "/index.html"
         }]
     }
 }
