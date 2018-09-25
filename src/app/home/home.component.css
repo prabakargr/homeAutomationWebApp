@@ -20,6 +20,11 @@
     padding-top: 3rem;
     padding-left: 3rem;
 }
+.head2{
+    border:2px solid gray;
+    padding:10px;
+    
+}
 h2{
     font-weight:400;
 }
