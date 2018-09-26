@@ -3,6 +3,10 @@
     padding-top: 1rem;
     /* border-radius: 16px 16px 6px 9px !important; */
 }
+.active {
+	background:#9c27b0 !important;
+	
+}
 
 @media(max-width:768px) {
     .logo {
